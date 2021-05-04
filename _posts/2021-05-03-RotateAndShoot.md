@@ -23,7 +23,7 @@ tags:								#标签
 
 游戏为我一人开发，开发时长2周。
 
-这里放一个[Windows Build](https://onedrive.live.com/?authkey=%21AMRUAkSq99F4IKA&id=43989C2FFDAF3F42%21138813&cid=43989C2FFDAF3F42)，有兴趣的小伙伴可以下来看看、
+这里放一个[Windows Build](https://onedrive.live.com/?authkey=%21AMRUAkSq99F4IKA&id=43989C2FFDAF3F42%21138813&cid=43989C2FFDAF3F42)，有兴趣的小伙伴可以下来看看。
 
 ## Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mwEtqIj8GPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
