@@ -10,7 +10,7 @@ tags:								#标签
     - 生活
 ---
 
-## Hello GitHub Page
+# Hello GitHub Page
 
 终于配置好github.io了，准备把旧版作品集网站的内容都迁移过来。
 
