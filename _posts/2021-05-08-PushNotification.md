@@ -31,7 +31,7 @@ tags:								#标签
 1. 参考下面的视频配置项目。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A6du3DUTIPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. 参考[该文档]("https://firebase.google.com/docs/cloud-messaging/unity/client")配置Unity环境。
+2. 参考[该文档](https://firebase.google.com/docs/cloud-messaging/unity/client)配置Unity环境。
 
 3. build app到手机上。运行app获取Device Token(registration_ids)。这里可以通过Debug模式把Device Token print到unity console里。**注意只有手机端可以生成Device Token，PC上是无法生成的。**
 
